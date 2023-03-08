@@ -52,7 +52,7 @@ int main ()
 	s1.name = "ZOHAIB MUGHAL";
 	s1.semester = 2;
 	s1.cgpa = 2.40;
-	s1.gender = 't';
+	s1.gender = 'M';
 	cout<<s1.sapid<<endl;
 	cout<<s1.name<<endl;
 	cout<<s1.semester<<endl;
